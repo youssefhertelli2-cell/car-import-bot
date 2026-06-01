@@ -31,7 +31,7 @@ MARQUES_MOBILE_DE = {
 }
 
 SEARCH_PARAMS = {
-    "minFirstRegistrationYear": 2018,
+    "minFirstRegistrationYear": 2014,
     "maxMileage": 100000,
     "maxPrice": 20000,
     "fuel": "PETROL",
